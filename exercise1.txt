@@ -1,1 +1,4 @@
-j
+mkdir exercises
+cd exercises
+git remote add origin https://github.com/MertensJens/exercises.git
+git push -u origin master
